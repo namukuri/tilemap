@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Walk
+    uniqueID: 456849085
+    locked: 0
+  - name: Collider
+    uniqueID: 994851261
+    locked: 0
+  - name: Chara
+    uniqueID: 2406441185
+    locked: 0
